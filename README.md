@@ -3,6 +3,9 @@
 Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap. Aqui é onde coloco alguns projetos desenvolvidos, especialmente com foco em backend.
 
 <p align="left">
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:klausplima@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/nadson-klaus-182467361/)
     <a href="https://github.com/Klauspx?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -100,3 +103,15 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="left">
+  <h2>🚀 Meus Projetos</h2>
+
+
+<a href="https://github.com/Klauspx/NOME_EXATO_DO_PROJETO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=nlw-prompts-manager&theme=holi" />
+  </a>
+  <a href="https://github.com/Klauspx/AgroFlow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=holi" />
+  </a>
+</div>
