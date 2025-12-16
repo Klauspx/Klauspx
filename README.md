@@ -105,13 +105,20 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
 </picture>
 
 <div align="left">
-  <h2>🚀 Meus Projetos</h2>
-
-
-<a href="https://github.com/Klauspx/NOME_EXATO_DO_PROJETO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=nlw-prompts-manager&theme=holi" />
-  </a>
-  <a href="https://github.com/Klauspx/AgroFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=holi" />
-  </a>
+  <h3>🚀 Meus Projetos</h3>
+  
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Klauspx/nlw-prompts-manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=nlw-prompts-manager&theme=holi" />
+        </a>
+      </td>
+      <td valign="top" width="50%">
+        <a href="https://github.com/Klauspx/AgroFlow-IoT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=holi" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
