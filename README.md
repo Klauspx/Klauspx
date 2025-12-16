@@ -87,4 +87,8 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
 
 </p>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake.svg">
+</picture>
