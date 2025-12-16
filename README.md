@@ -57,6 +57,14 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
 />
 <img 
     align="left" 
+    alt="c"
+    title="C" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
     alt="postgre"
     title="Postgre" 
     width="35px" 
@@ -66,12 +74,6 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
 
 <br/>
 <br/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake.svg">
-</picture>
 
 ### 📊 Estatísticas
 
@@ -93,4 +95,8 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
 
 </p>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake.svg">
+</picture>
