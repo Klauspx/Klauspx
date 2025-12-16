@@ -75,8 +75,10 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
-<br/>
-<br/>
+<div align="right">
+  <img src="giffBell.gif" width="150px" style="border-radius: 10px;" alt="Banner Animado" />
+  <br/><br/>
+</div>
 
 ### 📊 Estatísticas
 
