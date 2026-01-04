@@ -88,14 +88,14 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Klauspx&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Klauspx&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Klauspx&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klauspx&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
@@ -113,12 +113,12 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
     <tr>
       <td valign="top" width="50%">
         <a href="https://github.com/Klauspx/nlw-prompts-manager">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Klauspx&repo=nlw-prompts-manager&theme=holi" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=nlw-prompts-manager&theme=holi" />
         </a>
       </td>
       <td valign="top" width="50%">
         <a href="https://github.com/Klauspx/AgroFlow-IoT">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=holi" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=holi" />
         </a>
       </td>
     </tr>
