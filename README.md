@@ -113,7 +113,7 @@ Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Dese
     <tr>
       <td valign="top" width="50%">
         <a href="https://github.com/Klauspx/FinanceManager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=nlw-prompts-manager&theme=holi" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=FinanceManager&theme=holi" />
         </a>
       </td>
       <td valign="top" width="50%">
