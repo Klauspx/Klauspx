@@ -1,6 +1,6 @@
 # 📈 Nadson Klaus
 
-Me chamo Nadson Klaus, tenho 18 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap. Aqui é onde coloco alguns projetos desenvolvidos, especialmente com foco em backend.
+Me chamo Nadson Klaus, tenho 19 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap. Aqui é onde coloco alguns projetos desenvolvidos, especialmente com foco em backend.
 
 <p align="left">
 
