@@ -51,8 +51,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/stats-output/stats.svg" height="200" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/languages-output/languages.svg" height="300" alt="languages graph"  />
 </div>
 
 ###
