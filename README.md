@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="175" src="https://github.com/user-attachments/assets/10b0adce-b3b8-4af0-b8b3-e24bfd4acfff"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/10b0adce-b3b8-4af0-b8b3-e24bfd4acfff"  />
 
 ###
 
@@ -65,8 +65,8 @@
   <a href="https://github.com/Klauspx/FinanceManager">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=FinanceManager&theme=dark" alt="Projeto FinanceManager" />
   </a>
-  <a href="https://github.com/Klauspx/AlertaAcoes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AlertaAcoes&theme=dark" alt="Projeto Alerta de Ações" />
+  <a href="https://github.com/Klauspx/AgroFlow-IoT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=dark" alt="Projeto Alerta de Ações" />
   </a>
 </div>
 
