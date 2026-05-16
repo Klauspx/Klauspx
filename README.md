@@ -57,11 +57,11 @@
 
 ###
 
-<h3 align="left">Meus projetos destaque</h3>
+<h2 align="left">Meus projetos destaque</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Klauspx/FinanceManager">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=FinanceManager&theme=algolia" alt="Projeto FinanceManager" />
   </a>
