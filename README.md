@@ -1,126 +1,87 @@
-# 📈 Nadson Klaus
-
-Me chamo Nadson Klaus, tenho 19 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap. Aqui é onde coloco alguns projetos desenvolvidos, especialmente com foco em backend.
-
-<p align="left">
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:klausplima@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/nadson-klaus-182467361/)
-    <a href="https://github.com/Klauspx?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Klauspx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Klauspx?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Klauspx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="java"
-    title="Java" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="c"
-    title="C" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="postgre"
-    title="Postgre" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<div align="right">
-  <img src="giffBell.gif" width="150px" style="border-radius: 10px;" alt="Banner Animado" />
-  <br/><br/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Ol%C3%A1,%20bem-vindo%20ao%20meu%20GitHub&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=blink&descSize=40&descAlign=50&descAlignY=50&textBg=false&color=1E90FF"  />
 </div>
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Klauspx&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
-  />
+<h4 align="left">Me chamo Nadson Klaus, tenho 19 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFap. Aqui é onde coloco alguns projetos desenvolvidos, especialmente com foco em backend.</h4>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klauspx&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+###
 
-</p>
+<img align="right" height="175" src="https://github.com/user-attachments/assets/10b0adce-b3b8-4af0-b8b3-e24bfd4acfff"  />
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Klauspx/Klauspx/output/github-contribution-grid-snake.svg">
-</picture>
+###
 
 <div align="left">
-  <h3>🚀 Meus Projetos destaque</h3>
-  
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Klauspx/FinanceManager">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=FinanceManager&theme=holi" />
-        </a>
-      </td>
-      <td valign="top" width="50%">
-        <a href="https://github.com/Klauspx/AgroFlow-IoT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=holi" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/nadson-klaus-182467361/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/klaus.px" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:klausplima@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  </a>
 </div>
+
+###
+
+<h3 align="left">Linguagens e Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+</div>
+
+###
+
+<h3 align="left">Estatísticas</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Klauspx/Klauspx/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Meus projetos destaque</h3>
+
+###
+
+<div align="left">
+  <a href="https://github.com/Klauspx/FinanceManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=FinanceManager&theme=dark" alt="Projeto FinanceManager" />
+  </a>
+  <a href="https://github.com/Klauspx/AlertaAcoes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AlertaAcoes&theme=dark" alt="Projeto Alerta de Ações" />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klauspx/Klauspx/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Klauspx/Klauspx/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=1E90FF"  />
+</div>
+
+###
