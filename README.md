@@ -63,10 +63,10 @@
 
 <div align="left">
   <a href="https://github.com/Klauspx/FinanceManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=FinanceManager&theme=dark" alt="Projeto FinanceManager" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=FinanceManager&theme=algolia" alt="Projeto FinanceManager" />
   </a>
   <a href="https://github.com/Klauspx/AgroFlow-IoT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=dark" alt="Projeto Alerta de Ações" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=AgroFlow-IoT&theme=algolia" alt="Projeto AgroFlow-IoT" />
   </a>
 </div>
 
