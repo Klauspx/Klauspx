@@ -71,7 +71,7 @@
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=FinanceManager&theme=algolia" alt="Projeto FinanceManager" />
   </a>
   <a href="https://github.com/Klauspx/CritcPoint">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=CritcPoint&theme=algolia" alt="CritcPoint" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Klauspx&repo=CritcPointt&theme=algolia" alt="CritcPoint" />
   </a>
 </div>
 
